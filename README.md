@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores the application of Particle Swarm Optimization (PSO) to solve the Job Shop Scheduling Problem (JSSP). Our objective is to develop an efficient scheduling system that minimizes the overall delay of jobs while adhering to specific order constraints and deadlines.
+This project explores the application of Particle Swarm Optimization (PSO) to solve the Job Shop Scheduling Problem (JSSP). Our objective is to develop an efficient scheduling system that minimizes the overall delay of jobs while complying to specific order constraints and deadlines.
 
 ## Problem Statement
 
